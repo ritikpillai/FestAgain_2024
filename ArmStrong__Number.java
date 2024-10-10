@@ -1,4 +1,4 @@
-public class ArmStrongNumber {
+public class ArmStrong__Number {
     // Function to check if a number is an Armstrong number
     public static boolean isArmstrong(int number) {
         int originalNumber = number;
