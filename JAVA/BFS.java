@@ -11,7 +11,7 @@ class GraphNode {
     }
 }
 
-public class BFS_DFS_2 {
+public class BFS {
     public static void bfs(GraphNode start) {
 
         if (start == null) {
